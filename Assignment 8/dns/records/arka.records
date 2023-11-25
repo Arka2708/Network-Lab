@@ -1,0 +1,11 @@
+docucollect.arka.codes.	IN	A	13.233.122.240	360
+file.arka.codes.	IN	A	43.205.231.38	360
+kuikform.arka.codes.	IN	A	43.205.231.38	360
+stratathonapi.arka.codes.	IN	A	43.205.231.38	440
+arka.codes.	IN	A	76.76.21.20	440
+arka.codes.	IN	A	76.76.21.21	460
+arka.codes.	IN	A	76.76.21.22	460
+arka.codes.	IN	TXT	v=spf1	450
+arka.codes.	IN	TXT	"v=spf1 -al"	450
+arka.codes.	IN	NS	benedict.ns.cloudflare.com	3600
+arka.codes.	IN	NS	dara.ns.cloudflare.com	3600
